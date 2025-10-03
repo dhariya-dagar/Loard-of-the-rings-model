@@ -1,0 +1,10 @@
+langchain
+streamlit
+langchain-openai
+langchain-community
+langchain-google-genai
+langchainhub
+brave-search
+python-dotenv
+chromadb
+wikipedia
